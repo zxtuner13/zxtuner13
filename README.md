@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zxtuner13
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning SQL, Tableau, Python, and R
+- 💞️ I’m looking to collaborate on anything neccessary
+- 📫 How to reach me: https://www.linkedin.com/in/dylan-maxwell-a89809a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2pM2PfCiTLy5HYP%2FAFzd0g%3D%3D
